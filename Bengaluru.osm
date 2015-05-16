@@ -850,7 +850,7 @@
 	<node id="245609946" lat="12.7549269" lon="77.7578738" version="3" timestamp="2012-03-17T13:28:47Z" changeset="11007949" uid="492742" user="docaneesh">
 		<tag k="source" v="AND"/>
 	</node>
-	<node id="245610011" lat="12.7603251" lon="77.8373918" version="4" timestamp="2011-09-04T18:21:20Z" changeset="9211264" uid="78656" user="Walter Schlögl">
+	<node id="245610011" lat="12.7603251" lon="77.8373918" version="4" timestamp="2011-09-04T18:21:20Z" changeset="9211264" uid="78656" user="Walter SchlÃ¶gl">
 		<tag k="source" v="AND"/>
 	</node>
 	<node id="245610027" lat="12.7612969" lon="77.7657178" version="2" timestamp="2010-03-05T19:38:44Z" changeset="4043851" uid="136860" user="indigomc">
