@@ -19,7 +19,7 @@ def count_tags(filename):
 
 def test():
 
-    tags = count_tags(‘bengaluru_india.osm')
+    tags = count_tags(â€˜bengaluru_india.osm')
     pprint.pprint(tags)
 #     assert tags == {'bounds': 1,
 #                      'member': 3,
