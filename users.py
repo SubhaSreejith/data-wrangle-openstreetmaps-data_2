@@ -26,7 +26,7 @@ def process_map(filename):
 
 def test():
 
-    users = process_map(‘bengaluru_india.osm')
+    users = process_map(â€˜bengaluru_india.osm')
     pprint.pprint(users)
 #     assert len(users) == 6
 
