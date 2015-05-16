@@ -40,7 +40,7 @@ def process_map(filename):
 def test():
     # You can use another testfile 'map.osm' to look at your solution
     # Note that the assertions will be incorrect then.
-    keys = process_map(‘bengaluru_india.osm')
+    keys = process_map(â€˜bengaluru_india.osm')
     pprint.pprint(keys)
 #     assert keys == {'lower': 5, 'lower_colon': 0, 'other': 2, 'problemchars': 0}
 
